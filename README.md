@@ -54,10 +54,11 @@ A Python-based automation that reads structured PY Internship data from a Google
   SLIDE_IMAGE    = "slide.png"
 
 ## run the main script
-```bash
-python heygen_ai_generator.py
+   ```bash
+   python heygen_ai_generator.py
+```
 
-- It will:
+It will : 
 
 Read the first row of your Sheet and build a spoken script.
 
