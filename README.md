@@ -36,10 +36,10 @@ A Python-based automation that reads structured PY Internship data from a Google
 
 2. Install dependencies:
    ```bash
-  pip install \
-    gspread oauth2client \
-    requests \
-    moviepy pillow imageio[ffmpeg]
+   pip install \
+   gspread oauth2client \
+   requests \
+   moviepy pillow imageio[ffmpeg]
 
 3. place your files in the project root:
    credentials.json
